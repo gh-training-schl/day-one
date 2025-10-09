@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Oct 9 - 10, 2025
+- Facilitator: @tngx
 
 ## Class Resources
 
